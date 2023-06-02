@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "651847069172",
+    "project_id": "myproject-9f7ff",
+    "storage_bucket": "myproject-9f7ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651847069172:android:d524e9f823325bf19a9da1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNckg8KXK1_dOaZy_fyVX5n6JG2XoasX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651847069172:android:1b095f049b99164d9a9da1",
+        "android_client_info": {
+          "package_name": "uz.fargona.reistrationandauthorization"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNckg8KXK1_dOaZy_fyVX5n6JG2XoasX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
